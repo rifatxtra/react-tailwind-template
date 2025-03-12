@@ -14,5 +14,5 @@ To use this template, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/react-tailwind-template.git
+git clone https://github.com/rifatxtra/react-tailwind-template.git
 cd react-tailwind-template
